@@ -1,7 +1,7 @@
 {
   "name": "oauth2-server",
   "description": "Complete, framework-agnostic, compliant and well tested module for implementing an OAuth2 Server in node.js",
-  "version": "3.1.1",
+  "version": "4.0.0-dev.3",
   "keywords": [
     "oauth",
     "oauth2"
@@ -44,7 +44,7 @@
     "type-is": "1.6.18"
   },
   "devDependencies": {
-    "jshint": "2.11.1",
+    "jshint": "2.13.0",
     "mocha": "5.2.0",
     "should": "13.2.3",
     "sinon": "7.5.0"
